@@ -3,7 +3,6 @@
 ![Android](https://img.shields.io/badge/Android-Gemini-3DDC84?logo=android&logoColor=white)
 ![Type: privacy guide](https://img.shields.io/badge/Type-privacy%20guide-d73a49)
 ![Apps: Messages, Phone, WhatsApp](https://img.shields.io/badge/Apps-Messages%20%7C%20Phone%20%7C%20WhatsApp-5c2d91)
-![Checked November 2026](https://img.shields.io/badge/Checked-Nov%202026-2ea44f)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
 **📄 [Download the PDF](Android-Gemini-Messages-Privacy.pdf)**
