@@ -26,9 +26,7 @@ Using an iPhone too, or texting people who do? See the companion guide, [iPhone 
 
 <!-- guide:start -->
 
-*Checked against Google's own help pages in November 2026. Each section says whether it comes from the video or from added research.*
-
-**Source video:** [Now GOOGLE SEES YOUR MESSAGES on YOUR PHONE. Turn This Off](https://www.youtube.com/watch?v=Ee3UIVDkWNM) by Useful Things. Sections marked **Added** come from Google's documentation and other research, listed in Sources.
+**Source video:** [Now GOOGLE SEES YOUR MESSAGES on YOUR PHONE. Turn This Off](https://www.youtube.com/watch?v=Ee3UIVDkWNM) by Useful Things. Google's documentation and the other sources are listed at the end.
 
 ## The Short Version
 
@@ -67,8 +65,6 @@ The setting the video talks about, **Gemini Apps Activity**, is now usually labe
 
 ## 2. What Gemini Can and Can't Do With Your Messages
 
-*Added research, from Google's help pages.*
-
 Google's help pages list what Gemini can do with your messaging apps:
 
 | Gemini can | Gemini can't |
@@ -85,8 +81,6 @@ Gemini's Messages feature also needs the **SMS** permission given to the Google 
 ---
 
 ## 3. Disconnect Gemini From Your Apps
-
-*Added research. This is the step the video doesn't cover.*
 
 Google says Phone, Messages and WhatsApp keep working with Gemini **even when Keep Activity is off**. With Keep Activity off on Android, those apps and **Device assistance** are the only connected apps still available. So to stop Gemini using them, disconnect them.
 
@@ -139,8 +133,6 @@ The video's warning that real people might see your data is right. Google says a
 
 ## 5. Delete What's Already Saved
 
-*Added research.*
-
 1. In the Gemini app, tap **Menu**, then your **profile picture** or initial, then **Gemini Apps Activity**.
 2. Tap **Delete**, and choose a range, from **Last hour** to **All time**. You can also delete single items.
 
@@ -152,8 +144,6 @@ Two more things worth setting:
 
 ## 6. Gemini Inside Google Messages
 
-*Added research.*
-
 Google Messages can have a built-in Gemini chat, separate from the Gemini app.
 
 - **Chats with Gemini in Messages aren't end-to-end encrypted,** unlike RCS chats with other people (Section 7).
@@ -164,8 +154,6 @@ To turn it off, open **Google Messages** settings ▸ **Gemini in Messages**, an
 ---
 
 ## 7. Which of Your Messages Are Encrypted
-
-*Added research, from Google's Messages help.*
 
 **End-to-end encryption** means only you and the person you're messaging can read a message, not Google or your carrier.
 
@@ -184,8 +172,6 @@ To turn it off, open **Google Messages** settings ▸ **Gemini in Messages**, an
 ---
 
 ## 8. Texting People With iPhones
-
-*Added research.*
 
 Conversations between Android and iPhone use **RCS** or **SMS**:
 
@@ -209,8 +195,6 @@ The companion guide, [iPhone Messages and AI Privacy](https://github.com/ImmuneM
 ---
 
 ## 10. Sources
-
-Checked in November 2026.
 
 **Video**
 - [Now GOOGLE SEES YOUR MESSAGES on YOUR PHONE. Turn This Off](https://www.youtube.com/watch?v=Ee3UIVDkWNM) by Useful Things
